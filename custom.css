@@ -8,10 +8,14 @@ body {
     align-items: center;
 }
 .container {
-    
+    min-width: 40%;
     max-width: 1000px;
-    padding : 2rem;
-    padding-top: 3rem;
+    padding : 4rem;
+    padding-top: 6rem;
     background-color: white;
     border-radius: 1rem;
+}
+h1 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
 }
