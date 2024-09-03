@@ -41,6 +41,7 @@ h1 {
     height: 2rem;
     display: flex;
     align-items: center;
+    accent-color: green;
 
 }
 input , select{
