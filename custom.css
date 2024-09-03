@@ -38,6 +38,10 @@ h1 {
 .radio {
     display: flex;
     width: 50%;
+    height: 2rem;
+    display: flex;
+    align-items: center;
+
 }
 input , select{
     padding: 0.5rem;
